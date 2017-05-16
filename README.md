@@ -18,7 +18,7 @@ Vi har jobbet mye i samme rom og brukt en datamskin for å lage strukturen på I
 
 # Exercise 1
 
-Bildene av spektrogrammene våre ligger nederst i readme filen.
+Bildene av spektrogrammene er på slutten av exercise 1
 
 1. Sammenligne frekvensspektrum (finn formanter) når flere personer sier et ord (for eksempel, “hjelp”). Forsøk å forklare eventuelle forskjeller i frekvensanalyse.
 
@@ -39,6 +39,14 @@ Vi tror at spektrogrammet kan være en stor del av gjenkjennelse av språk. Frek
 Hvis programmet har en database den kan hente informasjon fra, kan den sammenligne spektrogrammene den leser med databasen. Databasen vil også være nødvendig for å kunne tolke ord. For eksempel ord som er skrevet forskjellig men lager samme lyd (SK/SKJ). Et annet eksempel kan være lunsj (norsk) og lunch (engelsk).
 
 For et mest nøyaktig program så må det kunne forstå konteksten ut av ordene den tolker. Programmet må kunne konstruere ord fra lydene den leser. Fra konteksten kan den konstruere setninger. I tillegg så må brukeren selv gi fornuftig input for at programmet skal virke som ment.
+
+# Bilder til exercise 1
+
+![](images/benjamin.png)![](images/ella.png)
+
+![](images/erik.png)![](images/nikolai.png)
+
+![](images/shiwan.png)![](images/sindre.png)
 
 # Exercise 2
 
@@ -84,14 +92,4 @@ Linje 50: Her brukes et http-get metode for å hente variabelen «req».
 
 Linje 45 til 50: Det er en speech metode, vi bruker en if setning som sender en feilmelding til buffer hvis det er en error. Leser responsbody kopier den til buffer og sjekker deretter for feil. Hvis feil er funnet returneres det en feilmelding.
 
-![](images/benjamin.png)
 
-![](images/ella.png)
-
-![](images/erik.png)
-
-![](images/nikolai.png)
-
-![](images/shiwan.png)
-
-![](images/sindre.png)
