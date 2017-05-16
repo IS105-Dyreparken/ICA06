@@ -16,6 +16,8 @@ Yang, Erik
 
 # Exercise 1
 
+Bildene av spektrogrammene våre ligger nederst i readme filen.
+
 1. Sammenligne frekvensspektrum (finn formanter) når flere personer sier et ord (for eksempel, “hjelp”). Forsøk å forklare eventuelle forskjeller i frekvensanalyse.
 
 Vi brukte ordet appelsin, og alle opptakene var tatt på samme maskin i samme rom.
@@ -79,3 +81,15 @@ Linje 41: her sjekkes det for evt. Feil og gir tilbakemelding hvis feil.
 Linje 50: Her brukes et http-get metode for å hente variabelen «req».
 
 Linje 45 til 50: Det er en speech metode, vi bruker en if setning som sender en feilmelding til buffer hvis det er en error. Leser responsbody kopier den til buffer og sjekker deretter for feil. Hvis feil er funnet returneres det en feilmelding.
+
+![](images/benjamin.png)
+
+![](images/ella.png)
+
+![](images/erik.png)
+
+![](images/nikolai.png)
+
+![](images/shiwan.png)
+
+![](images/sindre.png)
