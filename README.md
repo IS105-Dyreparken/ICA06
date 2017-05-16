@@ -1,6 +1,6 @@
 # ICA06 for gruppe 2, Dyreparken
 
-Deltagere:
+Deltakere:
 
 Dyb, Nikolai Holmen
 
